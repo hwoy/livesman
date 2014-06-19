@@ -1,6 +1,6 @@
 cc = gcc
 bin = livesman
-CFLAGS = -O2 -std=c89 -pedantic -Wall -DANSI -D_VALGRIND_
+CFLAGS = -O2 -std=c89 -pedantic -Wall -DANSI #-D_VALGRIND_
 ar = ar
 .PHONY: all clean require
 
