@@ -20,3 +20,10 @@ Required libraries
 1. grap
 2. atoui in spec
 3. linklist
+
+How to make
+1. get clone <...>
+2. cd livesman
+3. make require
+4. make
+
