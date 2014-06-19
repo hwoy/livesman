@@ -1,0 +1,4 @@
+Animal:Fruit
+Country:Computer
+Science:Occupation:Sample:
+

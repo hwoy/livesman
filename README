@@ -1,0 +1,22 @@
+LivesMan version 1 
+ is free puzzle game.
+This source can be compiled by c compiler.
+
+All line of source implement with ANSI C standard
+Testing compiler
+
+1. gcc on linux
+2. pocc on windows
+3. cl (Microsof c) on windows
+
+4. tcc can compile it on dos 16 bits with or without extended memory.
+   Requies modified codes for success compiling. Such as
+
+	4.1 Change file path at #include directves to 8.3 file format
+	4.2 Change readed file variable and writed file variable to 8.3 file format
+
+Required libraries
+
+1. grap
+2. atoui in spec
+3. linklist
