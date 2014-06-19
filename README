@@ -22,7 +22,7 @@ Required libraries
 3. linklist
 
 How to make
-1. get clone https://github.com/hwoy/livesman.git
+1. git clone https://github.com/hwoy/livesman.git
 2. cd livesman
 3. make require
 4. make
